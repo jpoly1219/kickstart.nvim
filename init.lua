@@ -989,6 +989,7 @@ do
   -- require 'kickstart.plugins.gitsigns' -- adds gitsigns recommended keymaps
   require 'kickstart.plugins.bufferline'
   require 'kickstart.plugins.no-neck-pain'
+  require 'kickstart.plugins.render-markdown'
 
   -- NOTE: You can add your own plugins, configuration, etc from `lua/custom/plugins/*.lua`
   --
